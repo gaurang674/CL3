@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HotelInterface
+comment1.params=guestName
+comment1.target=java.lang.String\ bookRoom(java.lang.String)
+comment2.params=guestName
+comment2.target=java.lang.String\ cancelBooking(java.lang.String)
+numComments=3
